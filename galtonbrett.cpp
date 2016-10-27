@@ -4,9 +4,7 @@ using namespace std;
 
 int main(){
 
-	int count=0;
-	int reihen = 0;
-	int kugeln = 0;
+	int count(0), reihen(0), kugeln(0);
 	string tab, tab2;
 
 	cout << "Reihen?\n";
